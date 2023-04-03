@@ -1,0 +1,3 @@
+1. on_startup
+2. parse_mode = "HTML" and "MARKDOWN"
+3. emoji, stickers
