@@ -1,3 +1,6 @@
+START_COMMAND = """
+<em>Salom, botimizga <b>xush</b> kelibsiz! </em>"""
+
 DARS_3 = """
 ```
 import logging
