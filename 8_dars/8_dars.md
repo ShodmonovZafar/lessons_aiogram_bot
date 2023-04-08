@@ -16,3 +16,7 @@ foydalanuvchi bajarishi mumkin bo'lgan ma'lum bir variantni belgilaydi.
 ## `KeyboardButton`
 Klaviaturada ma'lum bir tugma nusxasini yaratishga imkon beruvchi Telegram API klassi. Matn parametri bilan. Ushbu parametrning qiymati bosilganda yuboriladi.
 `text = str`
+
+## `ReplyKeyboardRemove`
+Ushbu sinfga qo'ng'iroq qilish joriy klaviaturani yopadi.
+`remove_keyboard = True`
